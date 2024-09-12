@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nilesh
+- 💡 Taking projects from ideas to production.
 - 👀 I’m interested in Web development, AI, DevOps, Data Analysis
 - 🌱 I’m currently learning Next.js, Golang
 - 💞️ I’m looking to collaborate on anything interesting
-- 📫 Reach me at discord @hydrateddev
 - 😄 Pronouns: he/him
